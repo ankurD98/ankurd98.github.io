@@ -1,0 +1,56 @@
+title: The UNSEEN 
+description: I write here about some stuff I do.
+author: Ankur Dubey
+github: https://github.com/ankurd98
+about: One in a million is next Tuesday
+disqus_shortname: ankurs-blog
+google_analytics: UA-155885128-1
+
+enableTags: true
+tagarray: []
+
+# collections:
+#   project:
+#     output: true
+#     permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "https://facebook.com/theankurdubey"
+    - icon: fa-twitter
+      link: "https://twitter.com/ankurd98"
+    - icon: fa-linkedin
+      link: "https://linkedin.com/in/ankurd98"
+    # - icon: fa-stack-exchange
+    #   link: "#"
+    - icon: fa-github
+      link: "https://github.com/ankurd98"
+
+# share:
+#   # twitter_username: github.io
+#   # fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    # - text: My Projects
+    #   url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://ankurd98.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
