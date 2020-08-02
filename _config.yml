@@ -1,4 +1,4 @@
-title: The UNSEEN 
+title: Hi there!
 description: I write here about some stuff I do.
 author: Ankur Dubey
 github: https://github.com/ankurd98
@@ -44,7 +44,7 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
 
