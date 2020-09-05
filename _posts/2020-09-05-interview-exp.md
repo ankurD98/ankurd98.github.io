@@ -6,7 +6,7 @@ catagories: [Interview]
 <br>
 This post will give you an idea about the internship/FTE interview process, types of questions you can expect, dos and don'ts, and some things that I have experienced and I think are worth sharing.
 
-Hi everyone! I am Ankur Dubey, final year computer science student at IIT Patna. I recently got a job offer from Avalara. Last year I grabbed internship offers from Arista Networks and Newzera. I have experienced F2F rounds of Goldman Sachs, Microsoft, DE Shaw, Codenation and some other companies as well. So I thought I could share some ideas for people who are preparing for interviews so that they get well aware of what they could expect in the process. 
+Hi there! I am Ankur Dubey, final year computer science student at IIT Patna. I recently got a job offer from Avalara. Last year I grabbed internship offers from Arista Networks and Newzera. I have experienced F2F rounds of Goldman Sachs, Microsoft, DE Shaw, Codenation and some other companies as well. So I thought I could share some ideas for people who are preparing for interviews so that they get well aware of what they could expect in the process. 
 
 ## The Interview Process
 The process is almost similar for every company. Generally, it is a three step process.
