@@ -21,12 +21,12 @@ Coding problems range from easy to moderate difficulty level, but could be imple
 
 Along with coding problems, it may contain some MCQs as well. MCQs can be aptitude questions / CS fundamental questions (from DS/Algo/OS/DBMS/Networks etc.) / Language specific questions (eg. Program outputs / Errors). 
 
-__Do__: The interviewer in the upcoming rounds might discuss the problems asked in the online round. They have your results with them and probably your code too. So try to remember the problems and solve the problems you couldn't solve during the round. Also, try writing cleaner code. 
+__Do:__ The interviewer in the upcoming rounds might discuss the problems asked in the online round. They have your results with them and probably your code too. So try to remember the problems and solve the problems you couldn't solve during the round. Also, try writing cleaner code. 
 
-__Don't__: Try not changing windows/tabs and write code in the provided editor. Do not copy code from the internet or cheat from somewhere else. 
+__Don't:__ Try not changing windows/tabs and write code in the provided editor. Do not copy code from the internet or cheat from somewhere else. 
 
 ## Technical rounds
- 
+
 
 <br>
 
