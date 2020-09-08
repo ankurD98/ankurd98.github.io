@@ -40,7 +40,7 @@ __Do:__ Try to put your strong areas in your introduction. This can drive your i
 __Don't:__ Do not surrender. Try to explain whatever you know. If interviewer is giving you time to think, think. Do not get nervous. Most of the times interviewers are very friendly and will help you when you are stuck. 
 
 ## HR/Managerial round
-After clearing tech rounds, the final rounds can be with HR and/or with some senior guy from the company. These are generally small and can be of 15-30 minutes. HR questions are standard like strength/weakness, teamwork, why do you want to join us, etc. The round with senior guy could get technical an don't get surprised if he hits you with some question similar to the tech rounds.
+After clearing tech rounds, the final rounds can be with HR and/or with some senior guy from the company. These are generally small and can be of 15-30 minutes. HR questions are standard like strength/weakness, teamwork, why do you want to join us, etc. The round with senior guy could get technical and don't get surprised if he hits you with some question similar to the tech rounds.
 
 __Do:__ Keep your HR questions script ready. Do some research about the company and it's products. Ask related questions.  
 
