@@ -19,7 +19,7 @@ Coding rounds generally take place on HackerRank. You can get an idea of HackerR
 
 Coding problems range from easy to moderate difficulty level, but could be implementation heavy at times. Most of these problems can be solved using simple implementation, sorting, binary search, basic DP, tree and graph algorithms (rare). However, the problems could be on a bit tougher side for Codenation, Directi, Google, etc. Most of the time partial scores are also given. So if you are able to pass only some test cases and not able to solve completely, submit it anyway.
 
-Along with coding problems, it may contain some MCQs as well. MCQs can be aptitude questions / CS fundamental questions (from DS/Algo/OS/DBMS/Networks etc.) / Language specific questions (eg. Program outputs / Errors). 
+Along with coding problems, it may contain some MCQs as well. MCQs can be aptitude questions/CS fundamental questions (from DS/Algo/OS/DBMS/Networks etc.)/Language specific questions (eg. Program outputs/Errors). 
 
 __Do:__ The interviewer in the upcoming rounds might discuss the problems asked in the online round. They have your results with them and probably your code too. So try to remember the problems and solve the problems you couldn't solve during the round. Also, try writing cleaner code. 
 
