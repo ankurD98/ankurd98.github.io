@@ -35,7 +35,7 @@ This is the point where things start getting tense. You can expect anywhere betw
 5. Puzzles. Almost all of them can be found on [geeksforgeeks puzzles](https://www.geeksforgeeks.org/puzzles/). 
 6. Open ended design problems like design search autocomplete/typeahead, design a train reservations system, design URL shortener, etc.  
 
-__Do:__ Try to put your strong areas in your introduction. This can drive your interview in that directions. Also, for your projects make a table similar to [this](https://i.imgur.com/SRwSVHk.png). Needless to say, practice solving and explaining coding problems on whiteboard/paper, understand OOP concepts along with code/examples to explain and real life use cases, Master your preferred programming language. Understand CS fundamentals and other things mentioned in the above list.
+__Do:__ Try to put your strong areas in your introduction. This can drive your interview in that directions. Also, for your projects make a table similar to [this](https://i.imgur.com/SRwSVHk.png). Needless to say, practice solving and explaining coding problems on whiteboard/paper, understand OOP concepts along with code/examples to explain and real life use cases, master your preferred programming language. Understand CS fundamentals and other things mentioned in the above list.
 
 __Don't:__ Do not surrender. Try to explain whatever you know. If interviewer is giving you time to think, think. Do not get nervous. Most of the times interviewers are very friendly and will help you when you are stuck. 
 
