@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-I'm a Final Year computer science student at [IIT Patna](https://www.iitp.ac.in).
+I'm currently a Software Developer at D.E. Shaw. I graduated in Computer Science from IIT Patna.
